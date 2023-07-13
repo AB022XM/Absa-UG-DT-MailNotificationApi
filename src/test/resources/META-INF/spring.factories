@@ -1,0 +1,5 @@
+org.springframework.test.context.ContextCustomizerFactory = ug.co.absa.api.\
+    mailnotificationapi.config.TestContainersSpringContextCustomizerFactory,ug.\
+    co.absa.api.mailnotificationapi.config.\
+    SqlTestContainersSpringContextCustomizerFactory,ug.co.absa.api.\
+    mailnotificationapi.config.KafkaTestContainersSpringContextCustomizerFactory
